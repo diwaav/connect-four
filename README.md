@@ -1,2 +1,2 @@
-# connect-four
-[Python] A connect four created for my Artificial Intelligence course at UCSC
+# Connect Four [CSE 140]
+This program uses alpha-beta pruning and the expectimax algorithms with two players (either AI, human, or random player).
